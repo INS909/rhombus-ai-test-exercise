@@ -8,3 +8,5 @@ node_modules/
 /playwright/.auth/
 __pycache__/
 *.pyc
+.env
+auth.json
