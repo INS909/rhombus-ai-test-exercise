@@ -1,0 +1,11 @@
+id,first_name,last_name,email,phone,date_of_birth,salary,department
+1,John,Doe,john.doe@email.comm,0412-345-678,1990-03-15,75000,Engineering
+2,Jane,Smith,jane.smith@email.comm,,1992-07-22,82000,Marketing
+3,Bob,Johnson,,0498 765 432,1988-03-05,notanumber,Engineering
+4,,Williams,sarah.williams@email.comm,0423456789,1995-11-23,91000,Hr
+5,Mike,Brown,mike.brown@email.comm,0411222333,,67000,Marketing
+6,Emily,Davis,emily.davis@email.comm,0455 666 777,1993-08-09,72000,
+7,Chris,Wilson,chris.wilson@email.comm,04-22-333-444,1991-13-45,85000,Engineering
+8,Lisa,Taylor,lisa.taylor@email.comm,0433999888,1987-02-14,  93000  ,Hr
+9,James,Anderson,,0412111222,1996-06-28,58000,Marketing
+10,Anna,Thomas,anna.thomas@email.comm,0499000111,1994-09-30,77000,Engineering
