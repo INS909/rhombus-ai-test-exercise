@@ -57,3 +57,9 @@ https://www.loom.com/share/e88c3fb832b54f7fafc3dde05ae50470
 
 ## Security Notes
 auth.json and .env are excluded from the repository via .gitignore. No credentials are hardcoded anywhere.
+A .env file is required locally containing:
+- RHOMBUS_EMAIL=your-email
+- RHOMBUS_PASSWORD=your-password
+
+A auth.json file is also required locally. Generate it by running:
+npx playwright codegen --save-storage=auth.json https://rhombusai.com
