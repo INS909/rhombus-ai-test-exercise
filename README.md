@@ -16,7 +16,7 @@ Automated tests for the Rhombus AI web application covering UI automation, API t
 ## Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/rhombus-ai-test-exercise.git
+git clone https://github.com/INS909/rhombus-ai-test-exercise.git
 cd rhombus-ai-test-exercise
 
 ### 2. Install Node dependencies
@@ -53,7 +53,7 @@ Compares input CSV against AI-transformed output and validates row count, column
 The script caught a real bug - the AI left extra whitespace around the salary value for row 8, proving that workflow completion alone is not sufficient validation.
 
 ## Demo Video
-YOUR_LOOM_LINK_HERE
+https://www.loom.com/share/e88c3fb832b54f7fafc3dde05ae50470
 
 ## Security Notes
 auth.json and .env are excluded from the repository via .gitignore. No credentials are hardcoded anywhere.
